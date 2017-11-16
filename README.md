@@ -1,10 +1,10 @@
 # JavaThreads
-Treść zadań
--Thread
-Napisac program , w ktorym jeden watek inkrementuje pewna zmienna 100000000 razy, drugi ja dekrementuje 100000000. 
--Thread2
-Mamy klika procesów produkujacych wiadomosci (szkielet kodu) i kilka konsumujacych wiadomosci (szkielet kodu) do/z jednoelementowego bufora. Zadaniem jest napisanie klasy Buffer z metodami put i take, tak, aby dostep byl synchronizowany uzywajac monitora Javy dla obiektu klasy Buffer. Kazda wiadomosc jest produkowana przez jednego producenta i konsumowana przez jednego, dowolnego konsumenta.
--Thread3
+#Treść zadań
+#-Thread
+#Napisac program , w ktorym jeden watek inkrementuje pewna zmienna 100000000 razy, drugi ja dekrementuje 100000000. 
+#-Thread2
+#Mamy klika procesów produkujacych wiadomosci (szkielet kodu) i kilka konsumujacych wiadomosci (szkielet kodu) do/z jednoelementowego #bufora. Zadaniem jest napisanie klasy Buffer z metodami put i take, tak, aby dostep byl synchronizowany uzywajac monitora Javy dla #obiektu klasy Buffer. Kazda wiadomosc jest produkowana przez jednego producenta i konsumowana przez jednego, dowolnego konsumenta.
+#-Thread3
 zaimplementowac semafor binarny za pomoca metod wait i notify/notifyall, uzyc go do synchronizacji wyscigu z Thread
 -Thread4
 zaimplementowac semafor licznikowy (ogolny) za pomoca metod wait i notify/notifyall. Przetestowac semafor na prostej symulacji sklepu samoobsługowego z ograniczoną ilością koszyków.
