@@ -1,0 +1,61 @@
+pomiary 
+
+8 watkow MAX 57000  newFixedThreadPool
+1.Czas wykonania:3815
+2.Czas wykonania:3876
+3.Czas wykonania:3871
+4.Czas wykonania:3860
+5.Czas wykonania:3994
+6.Czas wykonania:3919
+7.Czas wykonania:3960
+8.Czas wykonania:3931
+9.Czas wykonania:3996
+10.Czas wykonania:3819
+
+Srednia 3904.10
+Odchylenie standardowe S = 66.33995 
+
+8 watkow MAX 57000 newScheduledThreadPool
+1.Czas wykonania:5236
+2.Czas wykonania:5161
+3.Czas wykonania:5640
+4.Czas wykonania:5597
+5.Czas wykonania:5729
+6.Czas wykonania:5751
+7.Czas wykonania:5753
+8.Czas wykonania:5747
+9.Czas wykonania:5479
+10.Czas wykonania:5438
+
+Œrednia arytmetyczna = 5553.1
+Odchylenie standardowe S =218.62573 
+
+1 watkow MAX 57000
+1.Czas wykonania:10037
+2.Czas wykonania:10168
+3.Czas wykonania:9987
+4.Czas wykonania:9994
+5.Czas wykonania:9990
+6.Czas wykonania:10045
+7.Czas wykonania:10115
+8.Czas wykonania:10127
+9.Czas wykonania:10157
+10.Czas wykonania:9867
+
+Œrednia arytmetyczna =10048.7
+Odchylenie standardowe = 94.22084 
+
+4 watkow MAX 57000
+1.Czas wykonania:5429
+2.Czas wykonania:5064
+3.Czas wykonania:5335
+4.Czas wykonania:5423
+5.Czas wykonania:5512
+6.Czas wykonania:5041
+7.Czas wykonania:5216
+8.Czas wykonania:4039
+9.Czas wykonania:4267
+10.Czas wykonania:4351
+
+Œrednia arytmetyczna =4967.7
+Odchylenie standardowe = 543.78816 
